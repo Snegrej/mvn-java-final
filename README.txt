@@ -17,3 +17,6 @@ target/
 
 Hacker rank repo:
 https://github.com/Snegrej/maven-repo
+
+Kiss testing rep:
+https://github.com/Snegrej/mvn-kiss-repo
