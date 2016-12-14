@@ -40,7 +40,7 @@ public class Minefield extends JPanel {
         img = new Image[13];
 
         for (int i = 0; i < 13; i++) {
-            img[i] = (new ImageIcon(i + ".png")).getImage();
+            img[i] = (new ImageIcon("src/main/resources/imgFiles/" + i + ".png")).getImage();
         }
 
 
